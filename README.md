@@ -1,6 +1,3 @@
-# HormoziGPT
-
-HormoziGPT is a chatbot application that simulates a conversation with Alex Hormozi. The chatbot provides valuable business advice and coaching to users, drawing from Alex's experience in customer acquisition, monetization, and scaling businesses. It also has access to transcripts of Alex's podcasts, which are used to provide context and support for the chatbot's responses.
 
 ## Features
 
